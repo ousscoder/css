@@ -1,0 +1,77 @@
+#logo 
+{
+
+color: blueviolet;
+font-family:'Times New Roman', Times, serif;
+font-size: 50 px;
+text-align: center;
+text-decoration: underline;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+#menudiv {
+
+    color: white;
+    display: inline-block;
+    margin: 20px 50px ;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+#menudiv {
+
+    background-color: blueviolet;    
+   
+}
+
+a {
+
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin: 115px;
+    float: inline-end;
+    margin-left: 75x;
+    margin-right: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+a:hover {
+
+    color: black;
+    font-size: bold;
+
+}
+
+.A {
+
+    display: inline-block;
+    margin-top: 80px;
+    padding-left: 200px;
+   
+}
+
+footer {
+
+    display: block;
+    text-decoration: none;
+    background-color: blueviolet;
+}
+
+
+li{
+    
+    color: white;
+    
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 350px;
+    font-weight: bold;
+    
+
+}
